@@ -1,3 +1,3 @@
 # MetaSVR
 
-More information and instrcutions will follow shortly.
+More information and instructions will follow shortly.
